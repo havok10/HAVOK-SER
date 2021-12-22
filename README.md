@@ -35,7 +35,7 @@ WhatsApp Bot
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
+[`Click Here`](https://github.com/havok10/Queen-Alexa/blob/main/session.json)
 
 ## `SETTING`
 
@@ -60,6 +60,3 @@ WhatsApp Bot
 </p>
 
 
-## ```COFFEE```
-
-- [`SAWERIA`](https://saweria.co/hypermod)
