@@ -50,7 +50,7 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
+  <a href="https://youtube.com/c/HYPERMOD"><img src="https://media.giphy.com/media/CBGglC54Ua68KI8Ld8/giphy.gif" />
 </p>
 
 ## ```HOW TO DEPLOY```
